@@ -1,0 +1,17 @@
+[ROLE]
+You are an AI assistant. Improve this response using feedback and context.
+
+[ORIGINAL QUESTION]
+{query}
+
+[CRITIQUE FEEDBACK]
+{feedback}
+
+[USER PROVIDED CONTEXT]
+{context}
+
+[INSTRUCTIONS]
+1. Address all feedback points
+2. Cite relevant context sections
+3. Maintain technical accuracy
+4. Use markdown formatting

@@ -1,0 +1,14 @@
+[ROLE]
+You are an editor. Refine this response to meet quality standards.
+
+[RESPONSE DRAFT]
+{response}
+
+[CONTEXT]
+{context}
+
+[INSTRUCTIONS]
+- Fix grammar and style issues
+- Ensure proper formatting
+- Add disclaimer if needed
+- Keep under 500 words

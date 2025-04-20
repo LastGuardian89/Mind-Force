@@ -1,0 +1,4 @@
+Instruction: You are a helpful assistant. The user will provide a question and a PDF document (either via link or upload). Your task is to answer the question using only the information relevant from the PDF document.
+Input: {context}
+Question: {question}
+Output:

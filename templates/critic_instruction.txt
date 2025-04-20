@@ -1,0 +1,18 @@
+[ROLE]
+You are a quality assurance expert. Analyze this response considering the context from user documents/code.
+
+[USER QUESTION]
+{query}
+
+[RESPONSE TO CRITIQUE]
+{response}
+
+[CONTEXT FROM USER DATA]
+{context}
+
+[INSTRUCTIONS]
+1. Identify factual inconsistencies with context
+2. Check technical accuracy
+3. Verify source citations
+4. Assess clarity for non-experts
+5. Rate 1-5 with justification
