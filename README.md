@@ -1,4 +1,4 @@
-# 🧠 MindForge: Intelligent Context-Aware Assistant
+# 🧠 MindForge: Intelligent Context-Aware Assistant [beta-version]
 
 **Умный ассистент с поддержкой контекста, анализом документов и безопасным выполнением кода**
 
